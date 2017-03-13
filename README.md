@@ -1,8 +1,8 @@
-https://www.playframework.com/documentation/2.5.x/JavaFileUpload
-
 # Play File Upload using a custom BodyParser
 
-This is a sample project that shows how to upload a file through Akka Streams using a custom BodyParser using Akka Streams using the Java API.
+The backend is based on Play and Akka Stream. It has only one function in the controller, upload(). It's function is to retrieve the content of a spreadsheet, parse it as a text and returns it back to the front end as JSON response.
+
+It is a project that shows how to upload a file through Akka Streams using a custom BodyParser using Akka Streams using the Java API.
 
 ## Default MultipartFormData Body Parser
  
