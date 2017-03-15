@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
-// @SOURCE:C:/Users/Asus/lightbend/play-java-fileupload/conf/routes
-// @DATE:Mon Mar 06 22:25:27 SGT 2017
+// @SOURCE:C:/temp/play-java-fileupload/conf/routes
+// @DATE:Wed Mar 15 18:41:26 SGT 2017
 
 package controllers;
 

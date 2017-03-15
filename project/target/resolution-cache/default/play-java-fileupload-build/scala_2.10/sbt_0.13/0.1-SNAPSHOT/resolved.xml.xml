@@ -4,7 +4,7 @@
 		module="play-java-fileupload-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20170306222024"
+		publication="20170314062938"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
